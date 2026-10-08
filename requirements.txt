@@ -1,0 +1,10 @@
+streamlit>=1.61.1
+pandas
+scikit-learn
+textblob
+openpyxl
+wordcloud
+matplotlib
+requests
+joblib
+PySastrawi
